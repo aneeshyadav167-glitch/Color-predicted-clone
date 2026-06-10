@@ -1,0 +1,11 @@
+body {
+ font-family: Arial, sans-serif;
+}
+
+input[type='number'] {
+ width: auto;
+}
+
+#result {
+ font-weight: bold;
+}
